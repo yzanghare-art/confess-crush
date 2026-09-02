@@ -1,19 +1,18 @@
 const CONFIG = {
-    titleWeb: "Gửi người tôi yêu",
-    introTitle: 'Bảo Trân',
-    introDesc: `Vũ trụ mà anh nghiên cứu
-    Có 2 vì sao đan xen
-    Vì sao nằm trong ánh mắt
-    Vì sao cứ mãi yêu em`,
+    titleWeb: "ForMySweetie",
+    introTitle: 'Trân ơi',
+    introDesc: `Vậy là cũng được 3 tháng 
+    kể từ ngày thằng già này tỏ tình cô công chúa rùi`,
     btnIntro: '^^HiHi^^',
-    title: 'Muốn gặp em',
-    desc: 'Chở đi dạo phố hehe',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Em có thấy sai khi chọn anh kh',
-    btnReply: 'Sai đẹp chiêu',
-    reply: 'xời',
-    mess: 'hehe anh rất hạnh phúc khi quen được 1 người như em',
-    messDesc: ' Anh Yêu Em',
-    btnAccept: '<3',
-    
+    title: 'Nếu em được quay lại lúc đó á',
+    desc: 'Thì em có còn đồng ý hong',
+    btnYes: 'dạ coá',
+    btnNo: 'hg nha :3',
+    question: ' Em Thích Anh Ở Điểm Nào Dợ',
+    btnReply: 'Gửi cho bạn <3',
+    reply: '',
+    mess: 'Nghe cái sĩ hẳn. Yêu bé😆',
+    messDesc: 'Te amo.',
+    btnAccept: 'Okiiiii',
+    messLink: 'https://music.youtube.com/watch?v=EiS7cKfuf6w' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+}
