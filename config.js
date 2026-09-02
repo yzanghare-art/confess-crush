@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'hehe anh rất hạnh phúc khi quen được 1 người như em',
     messDesc: ' Anh Yêu Em',
     btnAccept: '<3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    
