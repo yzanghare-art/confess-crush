@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Biết ngay mà 😆.💗Yêu quãi💗',
     messDesc: 'Te amo.',
     btnAccept: 'Ogeee',
-    messLink: 'https://music.youtube.com/watch?v=EiS7cKfuf6w' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB?si=D7z2Mn9wRmmm3brbTxjJtQ&utm_source=copy-link' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
